@@ -1,0 +1,10 @@
+/* scroll-bar.css */
+/*滚动条样式 start*/
+/* 滚动条宽度 */
+::-webkit-scrollbar{width:5px;}
+/* 滚动条颜色 */
+::-webkit-scrollbar-thumb{
+    background: #33a9dc;
+    background-image: linear-gradient(#226a8c, #d28cd4, #bcbc6d, #85e799);
+    border-radius: 2em;
+}

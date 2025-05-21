@@ -1,0 +1,42 @@
+/*修改代码块代码颜色显示*/
+.token.directive.keyword{
+    color: #4faee2 !important;
+  }
+
+  .token.keyword{
+    color: #FF69B4!important;
+  }
+
+  .token.comment{
+    color: #406279!important;
+  }
+
+  .token.tag{
+    color: #a589ad !important;
+  }
+
+  .token.attr-name{
+    color: #de916c !important;
+  }
+
+  .token.attr-value{
+    color: #4faee2 !important;
+  }
+
+  .token.macro.property{
+    color: #4faee2 !important;
+  }
+
+  .token.function{
+    color: #e6b456 !important;
+  }
+  .token.string{
+    color: #238E23!important;
+  }
+  .token.punctuation{
+    color: #c0c3c1 !important;
+  }
+
+  .token.number{
+    color:#c0c3c1  !important;
+  }
