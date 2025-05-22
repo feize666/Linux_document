@@ -17,6 +17,7 @@
   - [15-进程管理](data/one/15-进程管理.md)
   - [16-磁盘管理](data/one/16-磁盘管理.md)
   - [17-特殊符号与正则](data/one/17-特殊符号与正则.md)
+  - [18-sed和find](data/one/18-sed和find.md)
 - 第二阶段
 
 
